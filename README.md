@@ -18,6 +18,23 @@ Gates et al (1965) apontou que a maioria das folhas tem uma camada distinta de c
 A estrutura celular da folha é grande em comparação com os comprimentos de onda da luz. As dimensões típicas para células em paliçada, células de parênquima esponjoso e células epidérmicas são de 15$\mu$ x 15$\mu$ x 60$\mu$, 18$\mu$ x 15$\mu$ x 20$\mu$ e 18$\mu$ x 15$\mu$ x 20$\mu$, respectivamente. A fina cutícula cerosa, sobreposição de células epidérmicas, é altamente variável em espessura, mas frequentemente tem apenas 3$\mu$ a 5$\mu$ de espessura. Clements (1904) deu uma excelente discussão sobre as dimensões físicas e as relações da estrutura foliar. Os cloroplastos suspensos dentro do protoplasma celular têm geralmente 5$\mu$ a 8$\mu$ de diâmetro e cerca de 1 $\mu$ de largura. Até 50 cloroplastos podem estar presentes em cada célula do parênquima. Dentro do cloroplasto, há camadas longas e delgadas chamadas grana, dentro das quais a clorofila está localizada. A grana pode ter aproximadamente 0,5$\mu$ de comprimento e aproximadamente 0,05$\mu$ de diâmetro.
 
   Os constituintes da folha que são importantes do ponto de vista da radiação são: celulose das paredes celulares, água contendo solutos (íons, moléculas pequenas e grandes como proteínas e ácido nucleico) dentro das células, espaços aéreos intercelulares e pigmentos dentro das células cloroplastos.
+  
+  
+ ## Fotossíntese e Respiração
+ 
+ Fotossíntese é o processo pelo qual o dióxido de carbono do ar é transformado em matéria orgânica de plantas verdes (compostos contendo carbono) com o auxílio da radiação solar [ver ref. 2 -Ch.2].
+
+Na utilização de matéria orgânica vegetal como fonte de energia; animais, plantas vivas, órgãos de plantas e tecidos vegetais transformam novamente os açúcares e outros materiais produzidos fotossinteticamente em dióxido de carbono e água, com a absorção de oxigênio do ar. Este processo é denominado Respiração.
+
+\begin{eqnarray} 
+    Fotossíntese : 6CO_{2} + 6H_{2}O + energia \rightarrow   C_{6}H_{12}O_{6} + 6O_{2} \\ 
+    Respiração : C_{6}H_{12}O_{6} + 6O_{2} \rightarrow 6CO_{2} + 6H_{2}O + energia  \nonumber
+\label{fotossintese} 
+\end{eqnarray}
+
+A fotossíntese é medida pela quantidade de dióxido de carbono utilizada ou pela quantidade de material orgânico ou oxigênio produzido. A maioria dos trabalhos quantitativos baseia-se em medições do consumo de dióxido de carbono, uma vez que a concentração de dióxido de carbono no ar é baixa (0,03 \%) e mudanças relativamente grandes em sua concentração podem ser provocadas pela fotossíntese.
+
+É bem sabido que a atividade fotossintética máxima é exibida pela luz com os mesmos comprimentos de onda daquela absorvida ao máximo pela clorofila. Isso fornece a crença de que a luz ativa na fotossíntese é realmente absorvida pelo cloroplasto. O papel na fotossíntese de pigmentos diferentes da clorofila foi questionado, mas há evidências de que a transferência de energia pode ocorrer de pigmentos acessórios para clorofila, ver French e Young (1956), que fizeram uma revisão do espectro de pigmentos fotossintéticos.
 
     
 mathjax: true
