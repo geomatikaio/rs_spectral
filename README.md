@@ -13,7 +13,11 @@ Uma lâmina foliar típica veja ![Figura 1][Figura 1] consiste em três tipos ge
 [Figura 1]: figure/Leaf_Tissue_Structure.png "Estrutura de uma lâmina de folha. Fonte: wikipedia"
 
 
+Gates et al (1965) apontou que a maioria das folhas tem uma camada distinta de células do parênquima em paliçada longa na parte superior do mesofilo e células do parênquima esponjoso de formato mais irregular e frouxamente dispostas na parte inferior do mesofilo. As células da paliçada tendem a se formar na porção do mesofilo em direção ao lado de onde a luz entra na folha. Na maioria das folhas horizontais, as células da paliçada estão voltadas para a superfície superior, exceto nas folhas que crescem quase na vertical, caso em que as células da paliçada estão totalmente ausentes e o parênquima esponjoso existe dentro do mesofilo.
 
+    A estrutura celular da folha é grande em comparação com os comprimentos de onda da luz. As dimensões típicas para células em paliçada, células de parênquima esponjoso e células epidérmicas são de 15 \mu$ x 15$\mu$ x 60$\mu$, 18$\mu$ x 15$\mu$ x 20$\mu$ e 18$\mu$ x 15$\mu$ x 20$\mu$, respectivamente. A fina cutícula cerosa, sobreposição de células epidérmicas, é altamente variável em espessura, mas frequentemente tem apenas 3$\mu$ a 5$\mu$ de espessura. Clements (1904) deu uma excelente discussão sobre as dimensões físicas e as relações da estrutura foliar. Os cloroplastos suspensos dentro do protoplasma celular têm geralmente 5$\mu$ a 8$\mu$ de diâmetro e cerca de 1 $\mu$ de largura. Até 50 cloroplastos podem estar presentes em cada célula do parênquima. Dentro do cloroplasto, há camadas longas e delgadas chamadas grana, dentro das quais a clorofila está localizada. A grana pode ter aproximadamente 0,5$\mu$ de comprimento e aproximadamente 0,05$\mu$ de diâmetro.
+
+    Os constituintes da folha que são importantes do ponto de vista da radiação são: celulose das paredes celulares, água contendo solutos (íons, moléculas pequenas e grandes como proteínas e ácido nucleico) dentro das células, espaços aéreos intercelulares e pigmentos dentro das células cloroplastos.
 
 
 
