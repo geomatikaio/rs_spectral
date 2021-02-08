@@ -1,4 +1,5 @@
-# rs_spectral
+# NOTA
+Esssas anaotações foram obtidas da tradução livre do _Laboratory for Aplications of Remote Sensisng (LARS)_ at _Purdue University_ publicado nos anos 1970.
 
 # Propriedades Espectrais da vegetação
 
